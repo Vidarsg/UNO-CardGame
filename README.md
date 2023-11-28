@@ -1,4 +1,3 @@
-I dette prosjektet har jeg brukt objekt-orientert programmering til å lage et fungerende UNO-spill (med noen forenklinger i spillets regler).
+In this project, I have used object-oriented programming to create a functional UNO game (with some simplifications in the game rules).
 
-For å åpne spillet må du først navigere deg til src\main\java\prosjekt\UnoApp.java
-Deretter kan du kjøre applikasjonen ved å trykke på "Run" over main-funksjonen.
+To open the game, you first need to navigate to src\main\java\project\UnoApp.java. Afterward, you can run the application by clicking on "Run" above the main function.
